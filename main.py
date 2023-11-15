@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("https://graph.org/file/06c7c73faded13f743de4.png")
+        await message.reply_text("⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸")
 
 
 @bot.on_message(
